@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Factum, for the English merchants interessed [sic] in the debts contracted in the Levant by the Earle of Cery heretofore Embassadour for the most Christian King at Constantinople. Against the arrest or sentence of the said Kings Councell, given at Paris the last day of December 1644.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41225</idno>
+            <idno type="STC">Wing F80A</idno>
+            <idno type="STC">ESTC R215031</idno>
+            <idno type="EEBO-CITATION">99827029</idno>
+            <idno type="PROQUEST">99827029</idno>
+            <idno type="VID">31441</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41225)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31441)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1884:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Factum, for the English merchants interessed [sic] in the debts contracted in the Levant by the Earle of Cery heretofore Embassadour for the most Christian King at Constantinople. Against the arrest or sentence of the said Kings Councell, given at Paris the last day of December 1644.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Company of Merchants of England Trading to the Levant --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:31441:1" rendition="simple:additions"/>
+            <head>FACTVM, For the <hi>Engliſh</hi> Merchants, intereſſed in the debts contracted in the <hi>Levant</hi> by the <hi>Earle</hi> of <hi>Cery</hi> heretofore <hi>Embaſſadour</hi> for the Moſt Chriſtian King at <hi>Conſtantinople.</hi>
+            </head>
+            <head type="sub">Againſt the Arreſt or Sentence of the ſaid Kings Councell, given at <hi>Paris</hi> the laſt day of <hi>December 1644.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>N the yeare 1620. the ſaid Monſieur <hi>de Ceri</hi> having borrowed of the ſaid intereſſed, and afterwards of ſeverall Merchants, <hi>French, Flemiſh, Turks, Perſians,</hi> and <hi>Jewes,</hi> divers ſomes of mony, by order of the <hi>Mar<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eillois,</hi> to cauſe an Exciſe of two and a half per centum to be taken away, which the <hi>Turks</hi> had impoſed upon the warres, brought from thoſe parts into <hi>France</hi> by the <hi>French,</hi> by meanes of thoſe borrowed ſomes cauſed the ſaid Exciſe to ceaſe; and by his rekoning remayned Debtor to the ſaid <hi>Engliſh</hi> of the ſumme of 48500. Piaſters or Dollars in capitall, which ſtill is due unto them with the intereſts of it from the ſaid yeare 1620. after the rate of 33. 25. 23. and 20. for hundred per annum intereſt upon intereſt, ac<g ref="char:EOLhyphen"/>cording they have payed themſelves after the uſe of <hi>Pera</hi> by <hi>Conſtantinople,</hi> and as his Moſt Chriſtian Majeſty hath adjudged and cauſed to be payed to the reſt of the ſaid Creditors of the ſaid Monſieur <hi>de Cery</hi> viz, to the <hi>Turks, Jewes, Perſians,</hi> and others 33. 25. and 23. per. cen<g ref="char:EOLhyphen"/>tum, not only of their capitall, but alſo of their intereſts gathered with the principall, to <hi>John Scaich</hi> a <hi>French</hi> Merchant 20 l. per centum, And likewiſe to the ſaid Monſieur <hi>de Ceri</hi> (who made himſelf to be ſubrogated for ſome ſmall ſummes) 20. for hundred per annum, of which he was really payed.</p>
+            <p>
+               <hi>Nota,</hi> That the ſaid <hi>Engliſh</hi> ſeeing how hardly they were uſed by the ſaid Monſieur <hi>de Ceri</hi> and ſince by Monſieur <hi>de la Picardiere</hi> and other Miniſters of <hi>France</hi> at <hi>Conſtantinople,</hi> and over charged with the huge intereſts that run over them for want of payment of the ſaid capitall and intereſts, were forced many times to addreſſe their complaints ſince the yeare 1622. to the Moſt Chriſtian King, deceaſed, by the Embaſſadours and Agents of his Majeſty, which from time to time did remaine in the Court of <hi>France;</hi> and that having complained among others, of an unjuſt liquidation made by the ſaid <hi>la Picardiere</hi> in the yeare 1630. by which he adjudged to the <hi>Turks</hi> and others Creditors aforeſaid their capitall and intereſt upon intereſt, as it is ſaid, and nothing to the ſaid <hi>Engliſh</hi> but only their capitall of 48500. Piaſters without any in<g ref="char:EOLhyphen"/>tereſt: his Moſt Chriſtian Majeſty upon complaint of that moſt ſhamefull diſtinction, ordained by his arreſt or ſentence of the 14. October 1632. that it ſhould be proceeded to a new liqui<g ref="char:EOLhyphen"/>dation both by the ſaid Monſieur <hi>de la Picardiere</hi> and Monſieur <hi>de Marcheville,</hi> which was ſent into the <hi>Levant</hi> an Embaſſadour in ſtead of the ſaid Monſieur <hi>de Ceri.</hi> And by that ſame arreſt or ſentence, the Conſulls and commerce of the City of <hi>Marſeille</hi> were put in poſſeſſion of a Farme of 3. per centum eſtabliſhed by his ſaid Majeſty for the acquitance of the ſaid debts upon all the wares which ſhould be brought from the <hi>Levant</hi> and <hi>Barbary</hi> into <hi>France,</hi> upon condition to acquit the ſaid Monſieur <hi>de Ceri</hi> towards his Creditors and to pay them the ſummes which ſhould be found due unto them.</p>
+            <p>And to the end the ſaid liquidation ſhould be made agreeable and pleaſing to every one, his Moſt Chriſtian Majeſty cauſed many of his letters to be ſent to the ſaid Monſieur <hi>de Marche<g ref="char:EOLhyphen"/>ville</hi> and Monſieur <hi>de la Picardiere</hi> to intreat the Embaſſadours of <hi>Venice</hi> and <hi>Holland</hi> to be pre<g ref="char:EOLhyphen"/>ſent therein, and to work jointly with them to the ſaid liquidation, the Conſulls of <hi>Marſeille</hi> being preſent or duely called, which was done in ſuch a manner, that the ſaid Embaſſadours
+<pb n="2" facs="tcp:31441:2"/>and the ſaid Monſieur <hi>de la Picardiere</hi> after they had many and ſeverall times heard the ſaid Deputies of <hi>Marſeille,</hi> the ſaid Creditors and the <hi>Engliſh</hi> Embaſſadour for the ſaid <hi>Engliſh</hi> gave many and ſeverall judgements to the benefit of the ſaid Creditors the tenth of <hi>January</hi> 1634. by which they confirmed the liquidation made in the yeare 1630. to the benefit of the others Cre<g ref="char:EOLhyphen"/>ditors, adjudged yet unto them more intereſts for the yeares 1631. 32 and 1633. And as for the <hi>Engliſh</hi> Merchants they regulated their principall and intereſts of the ſaid three yeares to 64700. Piaſters, and condemned the ſaid Monſieur <hi>de Ceri</hi> to pay them the ſaid ſumme.</p>
+            <p>And becauſe by the ſaid arreſt or ſentence of the Conſull of the eleventh of <hi>October</hi> 1632, it was ordained that the Conſulls of <hi>Marſeille</hi> ſhould acquit the debts of the ſaid Monſieur <hi>de Ce<g ref="char:EOLhyphen"/>ri</hi> out of the mony of the ſaid Farme, the ſaid Embaſſadours did alſo condemne the ſaid Con<g ref="char:EOLhyphen"/>ſulls of <hi>Marſeille</hi> to pay the ſaid ſumme to the ſaid <hi>Engliſh</hi> within ſix moneths to the acquit<g ref="char:EOLhyphen"/>tance of the ſaid Monſieur <hi>de Ceri.</hi> And for the intereſt of the yeares 1621. 22. 23. 24. 25. 26. 27. 28. 29. and 1630. demaunded by the ſaid <hi>Engliſh,</hi> they remitted them to the Councell of his Moſt Chriſtian Majeſty to be provided for.</p>
+            <p>In conſequence of that Judgement the ſaid <hi>Engliſh</hi> the 13. <hi>November</hi> 1637. cauſed the ſaid Conſulls of <hi>Marſeille</hi> and other Farmors of the ſaid Exciſe of 3. per centum to be called before the ſaid Councell in the name of <hi>Rene Augier,</hi> their attorney, to ſee themſelves condemned to pay them the ſaid 64700. Piaſters with the intereſt reſerved by the ſaid Judgement, and others expired and to expire, as alſo their charges and dammages, as poſſeſſors of the revenue of the ſaid Farme eſtabliſhed for payment of the ſaid debts. But in ſtead of receiving any ſatisfaction after foure yeares purſuite (though their right had been recommended by this preſent Parlia<g ref="char:EOLhyphen"/>ment to his Majeſty, and by him to the Moſt Chriſtian King) Juſtice was abſolutely denied unto them by the ſaid Councell, as it may be juſtified by the certificate that the Earle of <hi>Leiceſter,</hi> then Embaſſadour extraordinary for his Majeſty into <hi>France,</hi> delivered them under his hand the fourth of May 1642. a little after his returne into <hi>England.</hi>
+            </p>
+            <p>And although the ſaid intereſſed might in conſequence of the ſaid certificate appeale to this Parliament for the liquidation of their debt, and obtaine the meanes for their ſatisfaction, yet upon the alterations happened in the governement and adminiſtration of the affaires in the ſaid Courts of <hi>France</hi> ſince the Cardinal of <hi>Richelieus</hi> death, they were adviced to trie once more the faire meanes. And to that effect <hi>Laurence Greene,</hi> the chief intereſſed in the ſaid debts, have<g ref="char:EOLhyphen"/>ing repaired to <hi>Oxford</hi> under the warrant of the ſaid Parliament, and from thence being come to <hi>Paris</hi> with letters from his Majeſty of great <hi>Brittaine,</hi> directed to the Queene Regent mo<g ref="char:EOLhyphen"/>ther to the moſt Chriſtian King, and having begun againe the former proceedings of this buſi<g ref="char:EOLhyphen"/>neſſe in the name of the ſaid <hi>Augier,</hi> they were ſo far from receiving more ſatisfaction than before, that to the contrary, ſince the co<g ref="char:cmbAbbrStroke">̄</g>ming of the ſaid <hi>Rene Augier</hi> to <hi>Paris</hi> from both King<g ref="char:EOLhyphen"/>domes of great <hi>Brittaine</hi> there was an Arreſt or ſentence given in the ſaid Councell the laſt of <hi>December</hi> 1644. which ſerves only but for to aggravate their grievances and to ſtrengthen the ſaid deniall of Juſtice, the tenour whereof followeth.</p>
+            <p>The King being in his Councell, the Queene Regent his mother preſent, hath declared and doth declare, that it is due to the ſaid <hi>Engliſh</hi> Merchants by the Conſulls, Communalty and commerce of the City of <hi>Marſeille</hi> 48500. Piaſters of one part, and 16200. Piaſters for the inte<g ref="char:EOLhyphen"/>reſt of the ſaid principall ſumme and dammages ſuffered from the yeare 1630. to the tenth of <hi>July</hi> 1634. as it is mentioned in the ſaid Judgement of the tenth of <hi>January</hi> in the ſaid yeare. The ſaid two ſummes amounting to 155280. Piaſters after the rate of 48. ſolz for a Piaſter: Hath excluded them of the demaund of the intereſt from the end of the yeare 1620. to the end of the yeare 1630. And in regard of the intereſt, charges and expences pretended by them from the tenth of <hi>July</hi> 1634. Hath adjudged them and doth adjudge 44800. Piaſters, the ſaid ſummes amounting together to 200000. Piaſters, which ſhall be payed unto them in the City of <hi>Marſeille</hi> by the hands of the Officer committed to the receipt of the price of the ſaid Farmes of 3. per centum, eſtabliſhed in the Scales of <hi>Levant,</hi> and his Succeſſors in the ſaid Office by preference, and out of the firſt mony comming from the price of the ſaid Farmes, that are to be adjudged from the beginning of the firſt of <hi>February</hi> 1645. Nevertheleſſe after the payment made of 29915. Piaſters, to which his Majeſty hath liquidated the capitall and intereſt due to the ſaid Monſieur <hi>de la Haye,</hi> according to the Arreſt or ſentence of the Councell of the 29. <hi>Auguſt.</hi> 1640. Given in the Councell of State of the King, his Majeſty being there, the Queen Regent his mother preſent, holden at <hi>Paris</hi> the laſt day of <hi>December</hi> 1644. Subſcribed <hi>L<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lomeni<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+            <p>But the ſaid Councell approving by that Arreſt or Sentence the ſaid Judgement, and con<g ref="char:EOLhyphen"/>feſſing
+<pb n="3" facs="tcp:31441:2"/>that the ſumme of 48500. Piaſters is due in principall to the ſaid <hi>Engliſh</hi> by the Con<g ref="char:EOLhyphen"/>ſulls, Communalty and commerce of the City of <hi>Marſeille,</hi> from the end of the yeare 1620. and 16200. Piaſters for three yeares intereſt of the ſaid ſumme, viz. From the end of the yeare 1630. to the tenth of <hi>July</hi> 1634. beſides the reſervation of the intereſt, charges and dammages made by the ſaid Judgement, could not in equity, firſt, reckon the ſaid 2. ſummes at 155280. Pia<g ref="char:EOLhyphen"/>ſters after the rate of 48 ſolz for a Piaſter: Secondly, Neither exclude the ſaid <hi>Engliſh</hi> from the demaund of the other intereſt of the ſaid principall, charges and dammages, pretended by them: Thirdly, Nor appoint that they ſhould be payed of the price of the ſaid Farmes, only after the firſt of <hi>February</hi> 1645. and after the payment made of 29915. Piaſters to the ſaid Monſieur <hi>de la Haye.</hi>
+            </p>
+            <p n="1">1. Becauſe by that rekoning and reducing of Piaſters into Livers Turnois after the rate of 48. ſolz for a Piaſter, they intend to make them looſe 32400. Piaſters. which is a moſt unjuſt thing, for beſides they have lent Piaſters to Monſieur <hi>de Ceri</hi> and not Livers Turnois; and that then, for an example, the quarts d'Eſcus were worth but 16. ſolz a peece, which his moſt Chriſtian Majeſty hath ſince raiſed to 20. ſolz for the commoditie of the affaires of his Eſtate, the ſaid <hi>Engliſh</hi> ought not to be wronged by that raiſing which is not their fact, but ought to be payed in Piaſters or in quart d'Eſcus at 16. ſolz a peece after the courſe of the coyne at that time. But further his moſt Chriſtian Majeſty by his Arreſt or ſentence of the fourtenth of <hi>October</hi> 1637. having adjudged the Farme of three per centum eſtabliſhed for their payment to <hi>Gaſpard Guil<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ermeire,</hi> hath adjudged alſo unto him the raiſing of the coynes for the ſummes, which were in the hands of the former Farmors about the time of his ſaid Majeſties Declara<g ref="char:EOLhyphen"/>tions in the behalf of the ſaid coyne; which thing cannot be replied unto.</p>
+            <p n="2">2. Becauſe the ſaid intereſts are of the ſame nature, and ſo lawfully due from the end of the yeare 1620. to the end of the yeare 1630. and from the tenth of <hi>January</hi> 1634. to the day of actuall payment, as from the end of the yeare 1630. to the tenth of <hi>January</hi> 1634. which is clearly ſeen by the ſaid Judgement, in which the parties, yea, and the publike Miniſters having charge from both ſides, have ſaid, written and produced contradictorily all that they could al<g ref="char:EOLhyphen"/>ledge without excluding the <hi>Engliſh</hi> from the ſaid intereſts, which to the contrary were reſer<g ref="char:EOLhyphen"/>ved by the ſaid Judgements and conſtantly demaunded, and ſuited for, ever ſince the ſame, both by Sir <hi>Peter Wiche</hi> heretofore Embaſſadour for his Majeſty in the <hi>Levant,</hi> and by the ſaid <hi>Rene Augier,</hi> in ſo much as to adjudge them only 44800. Piaſters in ſtead of the intereſts due unto them of the ſaid capitall after the rate <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 33. 25. 23. and 20 l. per centum intereſt upon in<g ref="char:EOLhyphen"/>tereſt from the yeare 1620. to the end of the yeare 1630. and from the tenth of <hi>January</hi> 1534. to the day of actuall payment which make above 21. yeares, it is a meere mo<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch the more intolerable that the ſaid ſumme of 44800. Praſters is reduced to 12430. Piaſters by <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nes of the ſaid loſſe of 32430. Piaſters that they intend to put upon the ſaid <hi>Engliſh</hi> by the ſaid re<g ref="char:EOLhyphen"/>duction of Piaſters into Livres Turnois at 48. ſolz for a Piaſter.</p>
+            <p n="3">3. Becauſe they could not in equity to the prejudice of the ſaid <hi>Engliſh</hi> put to other uſe the mony already received from the ſaid Farme, ſince it is expreſly addicted to their payment, which Farme hath produced more than ſufficient ſummes for all the ſaid payments capitall and intereſts; Neither grant the ſaid ſumme of 29915. Piaſters to the ſaid Monfieur <hi>de la Haye</hi> afore them, ſince he is none of Monſieur <hi>de Ceris</hi> Creditors, nor intereſſed in the ſaid debts.</p>
+            <p>But to ſhew the injuſtice of the ſaid Arreſt or ſentence, ſuppoſe the ſaid <hi>Engliſh</hi> ſhould have contented themſelves with the ſaid 200000. Piaſters, with the conditions mentioned therein to be payed only from the beginning of the firſt day of <hi>February</hi> 1645. and after the aforeſaid payment made to the ſaid Monſieur <hi>de la Haye,</hi> and that they ſhould have been willing to treat now with the Farmor for a ready payment, it is very certain that the intereſt to be abated for the advance, exchange, factoridge, and other charges and exceptions that the Farmor could al<g ref="char:EOLhyphen"/>ledge upon the delayes in receiving the mony of the ſaid Farmes and other accidents and plau<g ref="char:EOLhyphen"/>ſible pretences ſhould have ſwallowed up a great deale more than the half of the ſaid 200000. Piaſters, which is as much unworthy as intolerable.</p>
+            <p>To which it may be added, that by meanes of the mony lent by the ſaid <hi>Engliſh</hi> to the ſaid Monſieur <hi>de Ceri</hi> to cauſe the aforeſaid exciſe of two and a half per centum to be taken away, the <hi>French</hi> Nation did profit ſince 24 yeares at leaſt of 25000. Piaſters per annum. And that the <hi>Engliſh</hi> Subjects trading in <hi>France</hi> of wares of <hi>Levant,</hi> have conſtantly payed and do daily pay the aforeſaid right of three per centum, ſo that what they have contributed to this preſent doth amount almoſt to ſo much as the intereſſed did pretend, which ſeemes very hard, that af<g ref="char:EOLhyphen"/>ter they have ſo uſefully ſerved the <hi>French</hi> Nation, the right of three per centum eſtabliſhed for their relief doth become their ruine.</p>
+            <pb n="4" facs="tcp:31441:3"/>
+            <p>By all the aforeſaid reaſons, and yet much more by the acts of the Proces, the injuſtice of ſaid Arreſt or ſentence doth evidently appeare, and that the ſaid <hi>Engliſh</hi> (which have proceeded with all manner of reſpect and moderation both at <hi>Conſtantinople</hi> as the ſaid Judgement doth teſtifie, and at the ſaid Councell where they reduced their intereſt to the half of what they payd themſelves in the ſaid <hi>Levant</hi> to endeavour to make a friendly end of that buſineſſe) are at this time very well grounded to complaine that the <hi>Turks, Jewes</hi> and <hi>Perſians</hi> are without com<g ref="char:EOLhyphen"/>pariſon more conſidered and more equitably uſed in the Councell of <hi>France,</hi> than the <hi>Engliſh,</hi> and to demand thereupon that the Parliament would be pleaſed to liquidate their principall of 48500. Piaſters with the intereſt of it after the rate of 33. 25. 23. and 20. for hundred per annum intereſt upon intereſt, as they have payed themſelves and do daily pay according to the uſe of <hi>Pera</hi> by <hi>Conſtantinople</hi> from the yeare 1620. to the day of actuall payment. together with their charges, expences and dammages, ſuſteined in that long and chargeable purſuite, and con<g ref="char:EOLhyphen"/>ſequently to be pleaſed to grant them for their ſatisfaction ſuch ſpeedy meanes againſt the <hi>Marſeillois</hi> and other Subjects of the moſt Chriſtian King, as have been formerly granted to others of this Kingdomes Subjects in ſuch extremity for the like oppreſſions.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
